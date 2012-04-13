@@ -18,7 +18,8 @@ Around line #1:
     3:   <div class='wym_skin_refinery page_part' id='copywriting-tab'>
     4:     <ul>
 
-`Trace of template inclusion:
-~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/_form_page_parts.html.erb,
-~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/_form.html.erb,
-~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/edit.html.erb`
+Trace of template inclusion:
+
+    ~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/_form_page_parts.html.erb,
+    ~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/_form.html.erb,
+    ~/.rvm/gems/ruby-1.9.3-p125@copywriting/gems/refinerycms-pages-2.0.3/app/views/refinery/admin/pages/edit.html.erb`
