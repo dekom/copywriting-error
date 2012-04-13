@@ -12,6 +12,7 @@
 `undefined method 'copywriting_phrases' for #<Refinery::Page:0x000000053a9738>`
 
 Around line #1:
+
     1: <% copywriting_phrases = @page.copywriting_phrases %>
     2: <% if copywriting_phrases and copywriting_phrases.any? %>
     3:   <div class='wym_skin_refinery page_part' id='copywriting-tab'>
